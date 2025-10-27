@@ -1,3 +1,5 @@
+![AISC BMFTR Logo](img/logo_aisc_bmftr.jpg)
+
 # Automatic Metadata Extraction from Parliamentary Documents
 
 ## Table of Contents
